@@ -1,9 +1,10 @@
 Instructions to run:
 
-1. On postgres, create an empty database.
-2. Run the python file, `python3 src/main.py`
-3. Answer the prompts
-4. Run the commands
+1. In command prompt, run `pip install psycopg2`
+2. On postgres, create an empty database.
+3. While in the COMP3005A3Q1-MAIN folder, run the python file in command prompt, `python3 src/main.py`
+4. Answer the prompts
+5. Run the commands
 
 Video: youtube
 
