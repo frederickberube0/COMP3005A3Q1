@@ -6,7 +6,7 @@ Instructions to run:
 4. Answer the prompts
 5. Run the commands
 
-Video: youtube
+Video: [youtube](https://youtu.be/YeFvYFS_YeQ)
 
 Explanation of functions
 
